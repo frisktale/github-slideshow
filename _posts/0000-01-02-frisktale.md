@@ -2,5 +2,5 @@
 layout: silde
 title: "Welcome to our second slide!"
 ---
-Your text
+Welcome to this document
 Use the left arror to go back
